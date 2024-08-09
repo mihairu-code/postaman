@@ -1,4 +1,6 @@
 # postaman
 
-![Alt text](https://imgur.com/a/5utgHyR)
+![Registration](1.jpg)
+![Authorization](2.jpg)
+![Get user](3.jpg)
 
